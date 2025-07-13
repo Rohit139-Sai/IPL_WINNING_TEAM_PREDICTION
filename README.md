@@ -154,7 +154,3 @@ It helped me explore classification problems and use real-world sports data for 
 ## 📄 License
 
 This project is open-source and intended for learning and demonstration purposes only.
-
----
-
-Would you like me to generate this as a `.md` file you can upload to GitHub or share directly?
