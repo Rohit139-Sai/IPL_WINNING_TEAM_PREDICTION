@@ -1,9 +1,3 @@
-# IPL_WINNING_TEAM_PREDICTION
-🏏 Predict IPL match winners using ML | Trained on 2008–2019 data | SystemTron Internship
-Thanks for sharing your previous README, Sairam! Based on that exact structure and formatting, here’s your customized **README** for the **IPL Winning Team Prediction** project:
-
----
-
 # 🏏 IPL Winning Team Prediction using Machine Learning
 
 This project was developed as part of **SystemTron ML Internship – Week 3 Task**.
